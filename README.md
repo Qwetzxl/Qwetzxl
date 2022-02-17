@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Qwetzxl
-- Projects: freemiumtv.tk, doubtless game
+- Projects: freemiumtv.tk, and a game called Doubtless
 - You can @ me on Tiwtter.com at qwetzxl, currently i do not have a support discord
 
 <!---
